@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": true,
+	"font_face": "Ubuntu Mono",
+	"font_size": 15
+}
