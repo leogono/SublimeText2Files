@@ -16,5 +16,7 @@ I used this files for my SublimeText2 WorkFlow. I work as a fron-ender but most 
 - Sass Beautifier
 - Search WordPress Codex
 - Theme Soda
+- Scss
+
 
 
