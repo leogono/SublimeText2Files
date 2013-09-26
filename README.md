@@ -6,6 +6,7 @@ I used this files for my SublimeText2 WorkFlow. I work as a fron-ender but most 
 ## Plugins used and installed
 - Package Control
 - SFTP
+- Emmet
 - AutoPrefixr
 - HTML-CSS-JS Pretiffy
 - HTML5
@@ -17,6 +18,7 @@ I used this files for my SublimeText2 WorkFlow. I work as a fron-ender but most 
 - Search WordPress Codex
 - Theme Soda
 - Scss
-
+- BracketHighlighter
+- Better Completion
 
 
